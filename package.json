@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/arpitbajaj98/arpitbajaj98.github.io/issues"
   },
-  "homepage": "https://github.com/arpitbajaj98/arpitbajaj98.github.io#readme"
+  "homepage": "https://github.com/arpitbajaj98/arpitbajaj98.github.io",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "gh-pages": "^1.2.0"
+  }
 }
